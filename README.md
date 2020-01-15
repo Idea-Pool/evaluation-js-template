@@ -7,6 +7,7 @@ This is a template repository to create test-ware for evaluating certain (JS) te
 ## Prerequisites
 
 1. Node.js LTS
+1. [ ] Add additional prerequisites if necessary
 
 ## Framework used
 
