@@ -2,7 +2,7 @@
 
 This is a template repository to create test-ware for evaluating certain (JS) test automation tools.
 
-*See [USAGE.md](USAGE.md) for imformation to use this repository.*
+> See [USAGE.md](USAGE.md) for imformation to use this repository.
 
 ## Prerequisites
 
