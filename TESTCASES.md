@@ -1,3 +1,24 @@
+> Write test cases which test the following actions/checks:
+> - [x] Opening an URL
+> - [x] Checking visibility
+> - [ ] Checking presence
+> - [x] Checking text content
+> - [x] Clicking on element
+> - [ ] Checking browser title
+> - [x] Checking browser URL
+> - [x] Checking input text
+> - [x] Checking input placeholder
+> - [x] Typing into input
+> - [ ] Checking checkbox state
+> - [ ] Clicking on checkbox
+> - [ ] Checking radio button state
+> - [ ] Clicking on radio button
+> - [ ] Checking whether button is enabled
+> - [ ] Checking attribute of element
+> - [ ] Checking number of elements
+> - [ ] Selecting element by its text
+> - [ ] Any more action/check necessary...
+
 # Test cases
 
 ## `TC-1` Checking landing pages elements
@@ -24,5 +45,3 @@
 1. **When** "Directive" is clicked in the "API" section
 1. **Then** the URL should be https://angular.io/api/core/Directive
 1. **And** the title on the content should be "Directive"
-
-- [ ] Add more test cases if necessary
