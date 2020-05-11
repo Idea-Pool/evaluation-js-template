@@ -1,5 +1,5 @@
 {
-  "name": "evaluation-template",
+  "name": "evaluation-js-template",
   "version": "0.0.1",
   "description": "This is a template repository to create test-ware for evaluating certain (JS) test automation tools.",
   "main": "-",
@@ -18,15 +18,15 @@
     "Evaluation",
     "JavaScript"
   ],
-  "author": "Laszlo Szikszai <sziklaszlo@gmail.com>",
+  "author": "Idea Pool <SpecialEPM-DEBIdeaPoolStaff@epam.com>",
   "license": "SEE LICENSE IN LICENSE.md",
   "bugs": {
-    "url": "https://github.com/szikszail/evaluation-template/issues"
+    "url": "https://github.com/idea-pool/evaluation-js-template/issues"
   },
-  "homepage": "https://github.com/szikszail/evaluation-template#readme",
+  "homepage": "https://github.com/idea-pool/evaluation-js-template#readme",
   "dependencies": {
-    "eslint": "^6.8.0",
-    "husky": "^4.0.10"
+    "eslint": "^7.0.0",
+    "husky": "^4.2.5"
   },
   "husky": {
     "precommit": "npm run lint"
