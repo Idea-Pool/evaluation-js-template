@@ -1,6 +1,6 @@
 > To use this template, clone a new repository based on this and
 > 1. Fill out this README.md, guided by the tasks below
-> 1. Implement the test cases in the choosen framework which are listed in [TESTCASES.md](TESTCASES.md)
+> 1. Implement the test cases in the choosen framework which are listed in [TESTCASES_UI.md](TESTCASES_UI.md) or [TESTCASES_API.md](TESTCASES_API.md), depending on the type of the tests.
 > 1. Delete this quotation
 > 1. Delete tasks in all files
 
@@ -25,7 +25,7 @@ This is a template repository to create test-ware for evaluating certain (**JS**
 
 ## Test cases
 
-The implemented test cases can be found in [TESTCASES.md](TESTCASES.md).
+The implemented test cases can be found in [TESTCASES_UI.md](TESTCASES_UI.md) or [TESTCASES_API.md](TESTCASES_API.md), depending on the type of the tests.
 
 ## Setup
 
